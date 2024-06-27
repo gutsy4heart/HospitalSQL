@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 20.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "HospitalPractice", "HospitalPractice\HospitalPractice.ssmssqlproj", "{6C90F00A-2017-49E3-A9D6-5BDBAD2C6DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C90F00A-2017-49E3-A9D6-5BDBAD2C6DCB}.Default|Default.ActiveCfg = Default
+		{44EED7EB-B522-4A51-9689-DAD6CC2CBAD5}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99A12834-EE84-4126-BE38-E6D0EC47F12B}
+	EndGlobalSection
+EndGlobal
